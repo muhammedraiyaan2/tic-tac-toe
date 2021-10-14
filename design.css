@@ -112,6 +112,9 @@ nav ul li a{
   nav ul li a{
     font-size: 10px;
   }
+  .line{
+    display: none;
+  }
   .gameContainer{
     top: 50px;
     flex-wrap: wrap;
